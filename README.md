@@ -1,5 +1,16 @@
 [![uikit banner](https://cloud.githubusercontent.com/assets/321047/21769911/474d7d9e-d681-11e6-9fe0-d95f8ccfd3a9.jpg)](https://getuikit.com/)
 
+# Customizing Material Design Uikit
+
+Clone the repo to get all source files including build scripts: git clone git://github.com/uikit/uikit.git
+
+Edit variables in src/less/theme
+Add folder custom and folder of icons in directory root the contains images in svg format.
+
+yarn install 
+
+copy uikit.min.css , uikit-icons.min.js and uikit.min
+
 # UIkit
 
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/NEt4Pv7)
@@ -59,14 +70,3 @@ Tested With<br>[![BrowserStack](https://user-images.githubusercontent.com/355427
 ## Copyright and License
 
 Copyright [YOOtheme](https://yootheme.com) GmbH under the [MIT license](LICENSE.md).
-
-# Personalizando Material Designer Ulkit
-
-Clone the repo to get all source files including build scripts: git clone git://github.com/uikit/uikit.git
-
-Edit variables in src/less/theme
-Add folder custom and folder of icons in directory root the contains images in svg format.
-
-yarn install 
-
-copy uikit.min.css , uikit-icons.min.js
